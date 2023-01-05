@@ -4,8 +4,8 @@ LovelyFour
 
 2.Add contacts
 
-3.Send messages
+3. Send messages
 
 4. send voice messages
 
-5. Send Audio Messages
+5. Singing song

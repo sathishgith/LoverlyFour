@@ -9,3 +9,5 @@ LovelyFour
 4. send voice messages
 
 5. Singing song
+
+6. Delete Chat

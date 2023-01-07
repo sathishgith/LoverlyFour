@@ -13,3 +13,4 @@ LovelyFour
 6. Delete Chat
 
 7. Add emoticons and GIF
+

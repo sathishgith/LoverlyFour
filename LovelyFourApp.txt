@@ -11,3 +11,5 @@ LovelyFour
 5. Singing song
 
 6. Delete Chat
+
+7. Add emoticons

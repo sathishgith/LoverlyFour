@@ -12,4 +12,5 @@ LovelyFour
 
 6. Delete Chat
 
-7. Add emoticons plug gif plus voice
+7. Add emoticons and GIF
+
